@@ -1,4 +1,4 @@
-# StreamZone — PHP/MySQL Project
+# StreamZone 
 
 StreamZone is a movie streaming database project built with PHP, MySQL, HTML, CSS, and JavaScript. It uses PHP forms and small JavaScript enhancements instead of an API and includes six pages: Home, Movies, Plans, Watchlist, History, and Account.
 
